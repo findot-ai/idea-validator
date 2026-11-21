@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: normal-new-idea
+expected_outcome: |
+  4단계(리서치→구조화→검증→사업성) 순서로 게이트를 적용하고, make-or-break 가정과 그걸 싸게 실측할 방법을 낸다. 판정은 통과·조건부·보류·기각 중 하나.

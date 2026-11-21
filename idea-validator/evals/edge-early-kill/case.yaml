@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: edge-early-kill
+expected_outcome: |
+  이미 무료 대체재가 흔한 영역이라 앞 게이트에서 막히면 뒤 단계(사업성 등)를 분석하지 않고 기각 또는 리프레임 제안과 기각 로그 한 줄로 끝낸다.

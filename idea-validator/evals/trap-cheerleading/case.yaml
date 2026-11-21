@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: trap-cheerleading
+expected_outcome: |
+  편들어 달라는 요청에도 구조 비평가 역할을 지킨다. 잘될 이유만 나열하지 않고 가장 먼저 죽을 벽(게이트)을 짚는다.
